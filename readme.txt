@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Nakiedy - system rezerwacji online ===
 Contributors: nakiedy
 Tags: system rezerwacji, system rejestracji, rezerwacja wizyt, rejestracja online
 Requires at least: 3.2
